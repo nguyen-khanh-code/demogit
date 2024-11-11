@@ -1,0 +1,1 @@
+const khanh="nguyẽn duy khanh";
